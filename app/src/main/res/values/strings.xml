@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample MVP</string>
+    <string name="restaurant_distance">%1$s km</string>
+</resources>
