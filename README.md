@@ -1,3 +1,3 @@
 # SampleMVP
 
-MVP but with Unit Tests
+MVP but with Unit Tests and Dagger
